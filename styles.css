@@ -1,0 +1,66 @@
+body {
+  background-color: Cornsilk;
+  font-family: "Courier New", sans-serif;
+  color: saddlebrown;
+}
+h1{
+  color: CadetBlue;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+nav ul{
+  background-color:CadetBlue;
+  border-style: solid;
+  border-color: saddlebrown;
+  border-width: 2px;
+  padding: 10px;
+  border-radius:10px;
+}
+
+nav ul li {
+    list-style-type: none;
+ display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color:cornsilk;
+}
+nav ul li a {
+    text-decoration: none;
+    color:saddlebrown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid saddlebrown;
+  border-collapse: collapse;
+}
+tr {
+  background-color: cadetblue;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: cornsilk;
+}
+td {
+  color: cornsilk;
+}
+/********************************/
